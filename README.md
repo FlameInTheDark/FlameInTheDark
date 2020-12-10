@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Viktor Menchikov. Unexpectedly I'am a software developer from Russia!
 
 <!--
 **FlameInTheDark/FlameInTheDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on:
+  - Arcane Discord Bot
+  - Some more stuff and work tasks
+- 📫 How to reach me:
+  - Discord: FlameInTheDark#1111
+  - Telegram: @FlameInTheDark
+  - Email: viktorfreedom@gmail.com
