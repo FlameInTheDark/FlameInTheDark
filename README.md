@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - Arcane Discord Bot
   - Some more stuff and work tasks
+- 🛠 I prefer to use:
+  - Golang
+  - VueJS, NUXT
+  - MongoDB, PostgreSQL, Redis
+  - Docker
+  - NATS
 - 📫 How to reach me:
   - Discord: FlameInTheDark#1111
   - Telegram: @FlameInTheDark
