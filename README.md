@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - VueJS, NUXT
   - MongoDB, PostgreSQL, Redis
   - Docker
-  - NATS
+  - NATS, RabbitMQ
 - 📫 How to reach me:
   - Discord: FlameInTheDark#1111
   - Telegram: @FlameInTheDark
