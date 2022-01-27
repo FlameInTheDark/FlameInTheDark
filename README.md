@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on:
-  - Arcane Discord Bot
+  - [Arcane Discord Bot](https://github.com/FlameInTheDark/rebot)
   - Some more stuff and work tasks
 - 🛠 I prefer to use:
   - Golang
