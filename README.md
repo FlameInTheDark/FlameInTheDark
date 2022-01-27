@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   - Docker
   - NATS, RabbitMQ
 - 📫 How to reach me:
-  - Discord: FlameInTheDark#1111
+  - Discord: FlameInTheDark#4597
   - Telegram: @FlameInTheDark
   - Email: viktorfreedom@gmail.com
