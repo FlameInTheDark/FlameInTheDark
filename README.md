@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Golang
   - VueJS, NUXT
   - MongoDB, PostgreSQL, Redis
-  - Docker
+  - Docker, Kubernetes
   - NATS, RabbitMQ
 - 📫 How to reach me:
   - Discord: FlameInTheDark#4597
