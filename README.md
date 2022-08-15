@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on:
   - [Arcane Discord Bot](https://github.com/FlameInTheDark/rebot)
+  - [GuilDrone - Go bindings for Guilded.gg](https://github.com/FlameInTheDark/guildrone)
   - Some more stuff and work tasks
 - 🛠 I prefer to use:
   - Golang
