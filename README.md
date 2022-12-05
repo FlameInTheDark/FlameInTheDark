@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Viktor Menschikov. I'am a software developer from Russia!
+### Hi there 👋 My name is Viktor Menschikov. Yet another software engineer
 
 <!--
 **FlameInTheDark/FlameInTheDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
