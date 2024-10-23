@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 - 🛠 I prefer to use:
   - Golang
   - VueJS, NUXT
-  - MongoDB, PostgreSQL, Redis
+  - MongoDB, PostgreSQL, Redis, Apache Cassandra, ScalaDB
   - Docker, Kubernetes
   - NATS, RabbitMQ
+  - MinIO
 - 📫 How to reach me:
   - Discord: FlameInTheDark#4597
   - Telegram: @FlameInTheDark
