@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on:
-  - [Arcane Discord Bot](https://github.com/FlameInTheDark/rebot)
   - Secret project
   - Some more stuff and work tasks
 - ⚡Dropped for no reason
+  - [Arcane Discord Bot](https://github.com/FlameInTheDark/rebot)
   - [GuilDrone - Go bindings for Guilded.gg](https://github.com/FlameInTheDark/guildrone)
 - 🛠 I prefer to use:
   - Golang
