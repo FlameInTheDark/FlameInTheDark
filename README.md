@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on:
   - [Arcane Discord Bot](https://github.com/FlameInTheDark/rebot)
-  - [GuilDrone - Go bindings for Guilded.gg](https://github.com/FlameInTheDark/guildrone)
+  - Secret project
   - Some more stuff and work tasks
+- ⚡Dropped for no reason
+  - [GuilDrone - Go bindings for Guilded.gg](https://github.com/FlameInTheDark/guildrone)
 - 🛠 I prefer to use:
   - Golang
   - VueJS, NUXT
