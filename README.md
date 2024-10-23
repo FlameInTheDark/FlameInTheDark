@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on:
-  - [Meteora Discord weather bot](https://github.com/FlameInTheDark/weatherbot)
+  - [Meteora Discord weather bot](https://gitlab.com/viktorfreedom/weatherbot)
   - Secret project
   - Some more stuff and work tasks
 - ⚡Dropped for no reason
