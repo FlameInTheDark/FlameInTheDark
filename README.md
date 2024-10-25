@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🛠 I prefer to use:
   - Golang
   - VueJS, NUXT
-  - MongoDB, PostgreSQL, Redis, Apache Cassandra, ScalaDB
+  - MongoDB, PostgreSQL, Redis, Apache Cassandra, ScyllaDB
   - Docker, Kubernetes
   - NATS, RabbitMQ
   - MinIO
