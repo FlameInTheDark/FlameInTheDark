@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   - NATS, RabbitMQ
   - MinIO
 - 📫 How to reach me:
-  - Discord: FlameInTheDark#4597
+  - Discord: flameinthedark
   - Telegram: @FlameInTheDark
   - Email: viktorfreedom@gmail.com
