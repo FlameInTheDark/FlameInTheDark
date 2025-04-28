@@ -31,5 +31,5 @@ Here are some ideas to get you started:
   - MinIO
 - 📫 How to reach me:
   - Discord: flameinthedark
-  - Telegram: @FlameInTheDark
+  - Telegram: [@FlameInTheDark](https://t.me/FlameInTheDark)
   - Email: viktorfreedom@gmail.com
