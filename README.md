@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on:
   - [Meteora Discord weather bot](https://gitlab.com/viktorfreedom/weatherbot)
+  - [GoChat](https://github.com/FlameInTheDark/gochat) - OpenSource scalable chat service
   - Secret project
   - Some more stuff and work tasks
 - ⚡Dropped for no reason
