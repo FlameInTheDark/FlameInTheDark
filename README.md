@@ -24,11 +24,11 @@ Here are some ideas to get you started:
   - [GuilDrone - Go bindings for Guilded.gg](https://github.com/FlameInTheDark/guildrone)
 - 🛠 I prefer to use:
   - Golang
-  - VueJS, NUXT
-  - MongoDB, PostgreSQL, Redis, Apache Cassandra, ScyllaDB
+  - Svelte
+  - MongoDB, PostgreSQL, Redis, Apache Cassandra, ScyllaDB, OpenSearch
   - Docker, Kubernetes
   - NATS, RabbitMQ
-  - MinIO
+  - MinIO, S3
 - 📫 How to reach me:
   - Discord: flameinthedark
   - Telegram: [@FlameInTheDark](https://t.me/FlameInTheDark)
