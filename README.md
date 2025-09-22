@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on:
-  - [Meteora Discord weather bot](https://gitlab.com/viktorfreedom/weatherbot)
   - [GoChat](https://github.com/FlameInTheDark/gochat) - OpenSource scalable chat service
-  - Secret project
-  - Some more stuff and work tasks
 - ⚡Dropped for no reason
-  - [Arcane Discord Bot](https://github.com/FlameInTheDark/rebot)
+  - [Meteora Discord weather bot](https://gitlab.com/viktorfreedom/weatherbot)
   - [GuilDrone - Go bindings for Guilded.gg](https://github.com/FlameInTheDark/guildrone)
 - 🛠 I prefer to use:
   - Golang
