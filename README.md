@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on:
   - [GoChat](https://github.com/FlameInTheDark/gochat) - OpenSource scalable chat service
+  - [Emerald](https://github.com/FlameInTheDark/emerald) - OpenSource node-based automation tool with agentic AI
 - ⚡Dropped for no reason
   - [Meteora Discord weather bot](https://gitlab.com/viktorfreedom/weatherbot)
   - [GuilDrone - Go bindings for Guilded.gg](https://github.com/FlameInTheDark/guildrone)
